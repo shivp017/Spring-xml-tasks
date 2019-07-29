@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc3225df-d168-413b-8414-cfe4a57f9127" name="Default Changelist" comment="" />
+    <list default="true" id="e6ff799b-53d5-418c-a8f5-f5fbb41462c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1OcvaRPw2WPyJ7VP1IXeBSTVM61" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OcygB8SfyB8qzfPFGRIgrIJAly" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
       <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -55,11 +62,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc3225df-d168-413b-8414-cfe4a57f9127" name="Default Changelist" comment="" />
-      <created>1564289762937</created>
+      <changelist id="e6ff799b-53d5-418c-a8f5-f5fbb41462c6" name="Default Changelist" comment="" />
+      <created>1564291288253</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564289762937</updated>
+      <updated>1564291288253</updated>
     </task>
     <servers />
   </component>
