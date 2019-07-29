@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ff799b-53d5-418c-a8f5-f5fbb41462c6" name="Default Changelist" comment="" />
+    <list default="true" id="6d86505d-c611-4172-8ff3-c4d9e2eafbb0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +15,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1OcygB8SfyB8qzfPFGRIgrIJAly" />
+  <component name="ProjectId" id="1Od3kugT7StgUk2INnrvUKOYJMr" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
+      <recent name="$PROJECT_DIR$/src/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,11 +62,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6ff799b-53d5-418c-a8f5-f5fbb41462c6" name="Default Changelist" comment="" />
-      <created>1564291288253</created>
+      <changelist id="6d86505d-c611-4172-8ff3-c4d9e2eafbb0" name="Default Changelist" comment="" />
+      <created>1564293792920</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564291288253</updated>
+      <updated>1564293792920</updated>
     </task>
     <servers />
   </component>

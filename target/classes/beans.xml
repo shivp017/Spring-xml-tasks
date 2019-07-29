@@ -5,7 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean name="actor" class="com.stackroute.spring.domain.Actor" >
         <property name="age" value="40"></property>
-        <property name="name" value="shiv "></property>
+        <property name="name" value="shiv"></property>
         <property name="gender" value="male"></property>
 
     </bean>
@@ -15,11 +15,12 @@
     <bean id="BeanLifeCycleDemoBean" class="com.stackroute.spring.domain.BeanLifecycleDemoBean">
         <property name="message" value="i'm property message" />
     </bean>
+    <bean id="BeanPostProcessorDemoBean" class="com.stackroute.spring.domain.BeanPostProcessorDemoBean"></bean>
 
 
 <!--    <bean id="movie" class="com.stackroute.test.domain.Movie">-->
 <!--        <constructor-arg index="0" value="12"></constructor-arg>-->
-<!--        <constructor-arg index="1" value="Samaresh"></constructor-arg>-->
+<!--        <constructor-arg index="1" value="Shiv"></constructor-arg>-->
 <!--        <constructor-arg index="2" ref="actor"></constructor-arg>-->
 <!--    </bean>-->
 
