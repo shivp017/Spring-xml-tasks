@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c9d03e7-94bd-4e5a-b7b4-0835e0107632" name="Default Changelist" comment="" />
+    <list default="true" id="fc3225df-d168-413b-8414-cfe4a57f9127" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Ocp3OjODsy6u9uXiScBLcwUCg9" />
+  <component name="ProjectId" id="1OcvaRPw2WPyJ7VP1IXeBSTVM61" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/stackroute/spring/domain" />
   </component>
@@ -31,8 +31,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.spring.Main" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.spring.App" />
       <module name="spring-core-demo" />
       <extension name="coverage">
         <pattern>
@@ -46,7 +46,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -55,11 +55,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c9d03e7-94bd-4e5a-b7b4-0835e0107632" name="Default Changelist" comment="" />
-      <created>1564286540034</created>
+      <changelist id="fc3225df-d168-413b-8414-cfe4a57f9127" name="Default Changelist" comment="" />
+      <created>1564289762937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564286540034</updated>
+      <updated>1564289762937</updated>
     </task>
     <servers />
   </component>

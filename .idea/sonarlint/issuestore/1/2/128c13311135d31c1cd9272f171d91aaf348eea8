@@ -1,0 +1,7 @@
+
+zsquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.BeanFactoryAware'.(™ºÌë8©Â”¸Ã-
+zsquid:UselessImportCheck"JRemove this unused import 'org.springframework.beans.factory.BeanFactory'.(ÐÚû±ýÿÿÿÿ8ì‘”¸Ã-
+usquid:UselessImportCheck"ERemove this unused import 'org.springframework.beans.BeansException'.(Æ¢ùìüÿÿÿÿ8ì‘”¸Ã-
+|squid:UselessImportCheck"LRemove this unused import 'org.springframework.beans.factory.BeanNameAware'.(¡üÿ²ÿÿÿÿÿ8©Â”¸Ã-
+vsquid:UselessImportCheck"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8ì‘”¸Ã-
+{squid:UselessImportCheck"PRemove this unused import 'org.springframework.context.ApplicationContextAware'.(’ïý·8©Â”¸Ã-
